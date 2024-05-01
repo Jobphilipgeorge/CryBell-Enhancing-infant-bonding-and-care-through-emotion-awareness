@@ -19,3 +19,35 @@ needs based on their cries. By analyzing infant cry patterns using
 machine learning algorithms trained on the Infant Cry Audio Corpus
 dataset, EmoSense offers a convenient and efficient way for caregivers
 to understand and respond to infants' needs in real-time
+
+# SCOPE
+EmoSense focuses on revolutionizing the way caregivers interpret and
+respond to infants' needs through advanced technology. The scope of
+EmoSense encompasses several key aspects:
+● Infant Cry Analysis: EmoSense will employ sophisticated
+machine learning algorithms trained on the Infant Cry Audio
+Corpus dataset to analyze and interpret infant cries. By
+identifying patterns and associations between cry characteristics
+and specific needs or emotions, EmoSense provides caregivers
+with valuable insights into the well-being of infants. Real-time
+● Response: EmoSense enables caregivers to respond promptly
+and effectively to infants' needs by providing real-time analysis
+of cry patterns. This ensures that caregivers can address infants'
+needs in a timely manner, enhancing the quality of care provided.
+● User-friendly Interface: EmoSense will feature an intuitive and
+user-friendly interface designed to facilitate easy interaction for
+caregivers. The interface will provide clear and actionable
+insights derived from cry analysis, empowering caregivers to
+make informed decisions about infant care. Integration with
+● Caregiving Practices: EmoSense seamlessly integrates with
+existing caregiving practices, complementing traditional
+methods of infant care. Whether at home or in a healthcare
+setting, EmoSense enhances caregivers' ability to understand and
+respond to infants' needs effectively.
+● Continuous Improvement: EmoSense is designed to evolve and
+improve over time through ongoing data collection and analysis.
+As more data is gathered and analyzed, EmoSense will continue
+to refine its algorithms and enhance its accuracy in interpreting
+infant cries.
+In summary, EmoSense aims to provide caregivers with a
+comprehensive solution for understanding and addressing infants'
